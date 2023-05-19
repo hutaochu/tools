@@ -1,4 +1,4 @@
-package wallpaper
+package main
 
 import (
 	"context"
