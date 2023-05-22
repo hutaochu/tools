@@ -17,3 +17,11 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+
+## 功能
+### 壁纸
+1. 在线预览
+2. 本地预览
+3. 图片下载
+4. 设置壁纸
+5. 设置文件目录
