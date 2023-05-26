@@ -1,4 +1,5 @@
 import {useState} from "react"
+
 function MyButton() {
   return (
     <button>my button</button>
@@ -15,7 +16,6 @@ function ClickButton() {
     <button onClick={handleClick}>click me {count} times!!!</button>
   )
 }
-
 
 const products = [
   { title: 'Cabbage', isFruit: false, id: 1 },
